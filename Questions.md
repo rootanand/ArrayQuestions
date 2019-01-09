@@ -1,4 +1,4 @@
-# Programs on unsorted integer arrays
+# Programs on Unsorted Integer Arrays
 
 1. Find the length of the given integer array. Don't use the len() function.
 2. Given an unsorted integer array A and an integer value X, find if A contains the value X.
