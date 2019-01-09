@@ -21,7 +21,7 @@
 17. Write a function that takes an unsorted integer array as input and prints the contents of the array in reverse order.
 18. Write a function that takes an unsorted integer array as input and returns an array with the values in reverse order.
 19. Write a function that takes two unsorted integer arrays as input and returns the index upto which they are identical. Return -1 otherwise. 
-20. Write a function that takes an unsortd integer array as input and returns an array with the duplicates removed.
+20. Write a function that takes an unsorted integer array as input and returns an array with the duplicates removed.
 21. Given an unsorted integer array as input,  return the number of odd numbers in it.
 22.  Given an unsorted integer array as input,  return the number of even numbers in it.
 23.  Given an unsorted integer array as input,  return the number of prime numbers in it.
