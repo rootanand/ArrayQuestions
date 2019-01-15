@@ -8,12 +8,12 @@ def lengthofarray(A):
         count+=1
 
     return count
-N=input("Enter the Number of elements: ")
+#N=input(str("Enter the Number of elements: "))
 
 A=[]
+X=int(input("Enter the Numbers: "))
 
-for a in range(0,N):
-    X=int(input("Enter the Numbers: "))
+while(X!="stop"):  
     A.append(X)
 
 print A
