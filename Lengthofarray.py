@@ -8,15 +8,18 @@ def lengthofarray(A):
         count+=1
 
     return count
-#N=input(str("Enter the Number of elements: "))
+
+N=input("Enter the Number of elements: ")
 
 A=[]
-X=int(input("Enter the Numbers: "))
 
-while(X!="stop"):  
-    A.append(X)
+for a in range (0,N):
+    
+	X = input("Enter the Numbers: ")
+	A.append(X)
 
 print A
+
 
 print("The length of the given array is: ")
 print(lengthofarray(A))
