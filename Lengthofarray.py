@@ -16,6 +16,7 @@ A=[]
 for a in range (0,N):
     
 	X = input("Enter the Numbers: ")
+    
 	A.append(X)
 
 print A
