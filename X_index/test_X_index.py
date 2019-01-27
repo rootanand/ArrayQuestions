@@ -8,7 +8,7 @@ def test_canassertTrue():
 def test_X_index():
 
     #arrange
-    Array=[6,9,0,2,5,1,7]
+    Array=[6,9,0,2,5,1,8]
     X=9
     expected=1
 

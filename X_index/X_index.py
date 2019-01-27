@@ -19,7 +19,7 @@ def X_index(Array,X):
 
 #Array=[]
 
-#for a in range(0,N):
+#for a in range(0,,N):
 
     #Elements=input("Enter the Elements in Array: ")
 
