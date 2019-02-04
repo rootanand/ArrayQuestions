@@ -10,9 +10,9 @@
 6. Given an unsorted integer array A and an integer value X, return the indices of the locations where X is found in A.
 7. Given an unsorted integer array A, find the sum of all the elements in A.
 8. Given an unsorted integer array A, find the mean.
-9. Given an unsorted integer array A, find the number that occurs the most or find the mode of the array.
+*9. Given an unsorted integer array A, find the number that occurs the most or find the mode of the array.
 10. Given an unsorted integer array A, find the smallest number.
-11. Given an unsorted integer array A, find the largest number.
+test condition*11. Given an unsorted integer array A, find the largest number.
 12. Given an unsorted integer array A, find the number of times the smallest number is found in the array.
 13. Given an unsorted integer array A, find the  number of times the largest number is found in the array.
 14. Given an unsorted integer array A, print the contents of the array in the given format: {arrayindex:value, arrayindex:value}. Note that there is no comma after the last value. 
