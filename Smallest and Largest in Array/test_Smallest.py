@@ -1,4 +1,4 @@
-#Test Condition for the smallest and largest Array:
+#Test Condition for the smallest element in array:
 
 import Smallest
 
