@@ -9,10 +9,10 @@ def test_Largest():
 
     #Arrange
     Array=[7,0,1,11,2]
-    expected=1
+    expected=11
 
     #Act
     actual=Largest.Largest_in_Array(Array)
 
     #Assert
-    expected==actual
+    assert expected==actual
