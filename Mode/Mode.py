@@ -7,8 +7,7 @@ def Mode(Array):
     mode=0
 
     for a in Array:
-        count=0
-
+        
         for b in Array:
             if(a==b):
                 count+=1
