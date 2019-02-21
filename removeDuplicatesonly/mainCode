@@ -1,0 +1,28 @@
+Problem Statement :
+==================
+  To remove non duplicate elements
+  
+Input :
+=======
+  Integer array
+ouput :
+======
+  Contain only single value non dulipcate elements
+
+Code :
+======
+
+def Main(array):
+    if isSorted(array):
+        array = removeDuplicate(array)
+    else :
+        array.sort()
+        array = removeDuplicate(array)
+
+    untill = (array.pop())+1 
+    for i in range(0,untill):
+        print(array[i], end="")
+        if i != untill-1 :
+            print(",",end = " ") 
+
+    return array
