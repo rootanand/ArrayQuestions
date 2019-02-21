@@ -4,7 +4,8 @@
 def getIndex(array,indexFor):
     index_list = []
     i = 0
-    index = 0
+    index = 0   
+    
     lennght = len(array)
     while (i!=lennght):
         if (array[i] == indexFor):
