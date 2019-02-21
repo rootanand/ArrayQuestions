@@ -1,14 +1,15 @@
-# Rotate the given array by moving one position to right:
+# Rotate the given array by one position to the left:
 
-def One_right(Array):
+def One_left(Array):
 
     #rotate=[]
-    X=Array.pop(-1)
+    X=Array.pop(0)
 
-# To rotate one bit by left:
-    Array.insert(0,X)
     #for a in Array:
         #rotate.append(a)
+
+    #To Rotate Left:
+    Array.append(X)
 
     return Array
 
@@ -26,4 +27,4 @@ def One_right(Array):
 
 #print("The given Array is", Array)
 
-#print("The first rotation of the given array is",One_right(Array))
+#print("The one bit left rotation of the given array is:", One_left(Array))

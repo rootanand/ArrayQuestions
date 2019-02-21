@@ -36,8 +36,8 @@
 32. Given an unsorted integer array of length N as input, rotate the contents of the array to the right/left by K positions, where K is always less than N. 
 33. Given an unsorted integer array of length N as input, rotate the contents of the array to the right/left by K positions, where K could be greater than N.
 34. Given an unsorted integer array, return the count of the elements with values that falls within a given range.
-35. Given an unsorted integer array A containing elements from 0-9, find the number of unique elements.
-36. Given an unsorted integer array A containing elements from 0-9, count the number of times each number appears.
+*35. Given an unsorted integer array A containing elements from 0-9, find the number of unique elements.
+*36. Given an unsorted integer array A containing elements from 0-9, count the number of times each number appears.
 37. Given an unsorted integer array A, find the value that will be in 3rd position or index after 2 rotations to the right.
 38. Given an unsorted integer array A, find the value that will be in 3rd position or index after 2 rotations to the left.
 39. Given an unsorted integer array A, find the value that will be in index "I" after "R" rotations to the right. 
