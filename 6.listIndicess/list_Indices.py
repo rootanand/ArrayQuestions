@@ -13,7 +13,3 @@ def getIndex(array,indexFor):
         index += 1
         i += 1
     return index_list
-
-array = [7,4,5,7]
-indexFor = 7
-print(getIndex(array,indexFor))
