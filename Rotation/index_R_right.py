@@ -37,4 +37,4 @@ def by_right(Array,R,I):
 
 #print("The given Array is", Array)
 
-#print("The I index of the given array after R rotations is", by_right(Array,R))
+#print("The I index of the given array after R rotations is", by_right(Array,R,I))
