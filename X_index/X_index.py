@@ -13,7 +13,7 @@ def X_index(Array,X):
 
     return Index
 
-#Getting Input from User:
+# Getting Input from User:
 
 #N=input("Enter the number of elements: ")
 
