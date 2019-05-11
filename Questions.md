@@ -1,6 +1,6 @@
 # Programs on Unsorted Integer Arrays
 
-## Note: If there is a case where the solution provided will create a problem if negative integers are present in the array, then explicitly specify then same and if possible, provide an alternate soltuion that will eliminate the problem with negative integers.  
+## Note: If there is a case where the solution provided will create a problem if negative integers are present in the array, then explicitly specify the same and if possible, provide an alternate soltuion that will eliminate the problem with negative integers.  
 
 1. Find the length of the given integer array. Don't use the len() function.
 2. Given an unsorted integer array A and an integer value X, find if A contains the value X.
