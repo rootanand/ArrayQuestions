@@ -10,16 +10,16 @@ def copy(Array):
 
 #Getting Input from the user:
 
-#N=input("Enter the number of elements: ")
+N=input("Enter the number of elements: ")
 
-#Array=[]
+Array=[]
 
-#for a in range(0,N):
+for a in range(0,N):
 
-    #Elements=input("Enter the Elements in Array: ")
+    Elements=input("Enter the Elements in Array: ")
 
-    #Array.append(Elements)
+    Array.append(Elements)
 
-#print("The given Array is", Array)
+print("The given Array is", Array)
 
-#print("The copy of the given array is", copy(Array))
+print("The copy of the given array is", copy(Array))
