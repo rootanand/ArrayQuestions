@@ -15,4 +15,4 @@ def complete_rotation_right(Array):
     return Array
 
 Array=[1,2,3,4,5]
-print complete_rotation_right(Array)
+print(complete_rotation_right(Array))

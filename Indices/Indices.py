@@ -11,18 +11,18 @@ def Indices_of_X(Array,X):
 
  # Getting Input from User:
 
-#N=input("Enter the number of elements: ")
+N=int(input("Enter the number of elements: "))
 
-#Array=[]
+Array=[]
 
-#for a in range(0,N):
+for a in range(0,N):
 
-    #Elements=input("Enter the Elements in Array: ")
+    Elements=int(input("Enter the Elements in Array: "))
 
-    #Array.append(Elements)
+    Array.append(Elements)
 
-#print("The Given array is: " ,Array)
+print("The Given array is: " ,Array)
 
-#X=input("Enter the search Elements: ")
+X=int(input("Enter the search Elements: "))
 
-#Indices_of_X(Array,X)
+Indices_of_X(Array,X)

@@ -21,16 +21,16 @@ def Mode(Array):
 
 #Getting Input from User:
 
-#N=input("Enter the number of elements: ")
+N=int(input("Enter the number of elements: "))
 
-#Array=[]
+Array=[]
 
-#for a in range(0,N):
+for a in range(0,N):
 
-    #Elements=input("Enter the Elements in Array: ")
+    Elements=int(input("Enter the Elements in Array: "))
 
-    #Array.append(Elements)
+    Array.append(Elements)
 
-#print("The given Array is", Array)
+print("The given Array is", Array)
 
-#print("The Mode of given array is", Mode(Array))
+print("The Mode of given array is", Mode(Array))

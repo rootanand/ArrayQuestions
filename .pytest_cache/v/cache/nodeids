@@ -19,8 +19,6 @@
   "Mean/test_mean.py::test_mean",
   "Min and Max/test_Pallindrome.py::test_canassertTrue",
   "Min and Max/test_Pallindrome.py::test_pallindrome",
-  "Mode/test_Mode.py::test_canassertTrue",
-  "Mode/test_Mode.py::test_Mode",
   "Multiple Integers/test_repeated.py::test_canassertTrue",
   "Multiple Integers/test_repeated.py::test_isRepeated",
   "Numbers/test_even_numbers.py::test_canassertTrue",

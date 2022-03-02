@@ -10,13 +10,13 @@ def copy(Array):
 
 #Getting Input from the user:
 
-N=input("Enter the number of elements: ")
+N=int(input("Enter the number of elements: "))
 
 Array=[]
 
 for a in range(0,N):
 
-    Elements=input("Enter the Elements in Array: ")
+    Elements=int(input("Enter the Elements in Array: "))
 
     Array.append(Elements)
 
