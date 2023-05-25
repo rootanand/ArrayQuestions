@@ -1,0 +1,1 @@
+#Given an unsorted integer array A and a value X, check if there exists a subset of A of size three that adds upto X.
